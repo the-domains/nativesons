@@ -1,0 +1,28 @@
+name: Nativesons
+favicon: null
+layout_spectrum: 0.7897520302794874
+typography_spectrum: 0.3569570027757436
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7465897095389664
+  lightness: 0.3929788628593087
+  saturation: 0.03766057244502008
+  rhythmicContrast: 0.24684951291419566
+purpose: []
