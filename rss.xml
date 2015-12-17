@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Nativesons]]></title>
         <description><![CDATA[Nativesons]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nativesons/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 03:19:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 17 Dec 2015 16:17:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nativesons/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d839dae6-a0f8-48ff-ac9e-b2ba7c9b791d.jpg">]]></description>
+            <link>https://thegrid.ai/nativesons/8f727b9a-bebf-4d6c-8732-5aead240a80d/index.html</link>
+            <guid isPermaLink="false">8f727b9a-bebf-4d6c-8732-5aead240a80d</guid>
+            <pubDate>Thu, 17 Dec 2015 16:17:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/023d6db3-a240-4e70-b306-587582c27ec6.jpg">]]></description>
+            <link>https://thegrid.ai/nativesons/1d9d23dc-f24e-42b3-8f01-c1bba85e2ad4/index.html</link>
+            <guid isPermaLink="false">1d9d23dc-f24e-42b3-8f01-c1bba85e2ad4</guid>
+            <pubDate>Thu, 17 Dec 2015 03:18:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/nativesons/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">d3062f28-0708-43f1-9f60-8c2765a81c2e</guid>
             <pubDate>Thu, 17 Dec 2015 03:18:45 GMT</pubDate>
         </item>
